@@ -1,0 +1,632 @@
+[
+  {
+    "slug": "alora-house",
+    "name": "Alora House",
+    "location": "Hudson Valley, NY",
+    "type": "Villa",
+    "price": 18500000,
+    "priceLabel": "$18,500,000",
+    "currency": "USD",
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "interiorArea": "740 sq m (7,965 sq ft)",
+    "grounds": "1.8 Private Hectares",
+    "parking": "4-Car Private Motor Court",
+    "availability": "Private viewing by appointment",
+    "shortDescription": "A private residential pavilion composed around reflection water, native landscape and generous northern light.",
+    "description": "Alora House is an architectural study in quietude and proportion. Set against a protected hillside in the Hudson Valley, the residence uses hand-finished limestone, darkened zinc and floor-to-ceiling glass to dissolve the boundary between interior sanctuary and surrounding forest.",
+    "architecturalStory": "The house is organised as a sequence of single-storey pavilions linked by stone cloisters. Each room is calibrated to receive daylight at a specific hour, creating an unhurried diurnal rhythm from dawn arrival to evening terrace.",
+    "heroImage": "assets/properties/residence-01/hero.jpg",
+    "highlights": [
+      {
+        "label": "Site",
+        "detail": "Protected woodland elevation with long southern views"
+      },
+      {
+        "label": "Materials",
+        "detail": "Chauvigny limestone, quarter-sawn white oak, bronze joinery"
+      },
+      {
+        "label": "Wellness",
+        "detail": "18-metre heated reflection pool and cedar sauna pavilion"
+      },
+      {
+        "label": "Security",
+        "detail": "Discreet perimeter monitoring and private access drive"
+      }
+    ],
+    "photos": [
+      {
+        "url": "assets/properties/residence-01/view-02.jpg",
+        "label": "Exterior Setting"
+      },
+      {
+        "url": "assets/rooms/garden.jpg",
+        "label": "Arrival Threshold"
+      },
+      {
+        "url": "assets/properties/residence-01/view-04.jpg",
+        "label": "Living Pavilion"
+      },
+      {
+        "url": "assets/rooms/dining-room.jpg",
+        "label": "Culinary Suite"
+      },
+      {
+        "url": "assets/rooms/primary-suite.jpg",
+        "label": "Primary Retreat"
+      },
+      {
+        "url": "assets/properties/residence-01/view-03.jpg",
+        "label": "Pool Terrace"
+      }
+    ]
+  },
+  {
+    "slug": "mora-residence",
+    "name": "Mora Residence",
+    "location": "Coconut Grove · Miami, FL",
+    "type": "Residence",
+    "price": 14200000,
+    "priceLabel": "$14,200,000",
+    "currency": "USD",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "interiorArea": "580 sq m (6,240 sq ft)",
+    "grounds": "1,400 sq m Lush Grounds",
+    "parking": "3-Car Integrated Garage",
+    "availability": "Private viewing by appointment",
+    "shortDescription": "A light-led coastal sanctuary shaped by shaded breezeways, water courtyards and deep tropical verandas.",
+    "description": "Mora Residence reinterprets subtropical modernism through an austere architectural lens. Smooth poured concrete, slatted teak louvers and reflecting pools create a microclimate of cooling cross-ventilation and filtered sunlight.",
+    "architecturalStory": "The house steps back into lush mature canopy, offering total privacy from the street while opening completely to its protected interior courtyards.",
+    "heroImage": "assets/properties/residence-02/hero.jpg",
+    "highlights": [
+      {
+        "label": "Climate",
+        "detail": "Engineered passive cross-ventilation and deep overhangs"
+      },
+      {
+        "label": "Craft",
+        "detail": "Board-formed concrete, marine teak and coral stone floors"
+      },
+      {
+        "label": "Acoustics",
+        "detail": "Lush tropical sound buffering with private water features"
+      },
+      {
+        "label": "Access",
+        "detail": "Private gated lane with maritime canal proximity"
+      }
+    ],
+    "photos": [
+      {
+        "url": "assets/properties/residence-02/hero.jpg",
+        "label": "Tropical Façade"
+      },
+      {
+        "url": "assets/properties/residence-02/view-02.jpg",
+        "label": "Water Court"
+      },
+      {
+        "url": "assets/properties/residence-02/view-04.jpg",
+        "label": "Double-Height Living"
+      },
+      {
+        "url": "assets/rooms/kitchen.jpg",
+        "label": "Culinary Pavilion"
+      },
+      {
+        "url": "assets/rooms/guest-suite.png",
+        "label": "Guest Quarters"
+      },
+      {
+        "url": "assets/properties/residence-02/view-03.jpg",
+        "label": "Pool Veranda"
+      }
+    ]
+  },
+  {
+    "slug": "oro-courtyard",
+    "name": "Oro Courtyard",
+    "location": "Palm Beach, FL",
+    "type": "Villa",
+    "price": 21000000,
+    "priceLabel": "$21,000,000",
+    "currency": "USD",
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "interiorArea": "680 sq m (7,320 sq ft)",
+    "grounds": "2,200 sq m Private Estate",
+    "parking": "4-Car Courtyard Garage",
+    "availability": "Private viewing by appointment",
+    "shortDescription": "A serene estate where internal cloisters and historic stone give every room an unhurried, grounded rhythm.",
+    "description": "Oro Courtyard evokes the timeless proportion of classical Mediterranean villas, stripped of ornamental clutter. Honed oolite stone, lime wash and aged bronze create a monastery-like calm right in prime Palm Beach.",
+    "architecturalStory": "Three interconnected courtyards organise the house into distinct residential zones: public entertaining, culinary gathering, and secluded family quarters.",
+    "heroImage": "assets/properties/residence-03/hero.jpg",
+    "highlights": [
+      {
+        "label": "Proportion",
+        "detail": "Classical courtyard axes with minimalist contemporary detailing"
+      },
+      {
+        "label": "Stone",
+        "detail": "Hand-selected oolite limestone cut from historic Florida quarries"
+      },
+      {
+        "label": "Privacy",
+        "detail": "High walled perimeter with century-old olive and cycad specimens"
+      },
+      {
+        "label": "Technology",
+        "detail": "Fully concealed acoustic and climate management"
+      }
+    ],
+    "photos": [
+      {
+        "url": "assets/properties/residence-03/view-02.jpg",
+        "label": "Walled Forecourt"
+      },
+      {
+        "url": "assets/rooms/garden.jpg",
+        "label": "The Cloister"
+      },
+      {
+        "url": "assets/properties/residence-03/view-03.jpg",
+        "label": "The Library Salon"
+      },
+      {
+        "url": "assets/rooms/dining-room.jpg",
+        "label": "The Dining Cloister"
+      },
+      {
+        "url": "assets/properties/residence-03/view-04.jpg",
+        "label": "Primary Pavilion"
+      },
+      {
+        "url": "assets/rooms/pool-terrace.jpg",
+        "label": "Water Garden"
+      }
+    ]
+  },
+  {
+    "slug": "atlas-penthouse",
+    "name": "Atlas Penthouse",
+    "location": "Trousdale Estates · Los Angeles, CA",
+    "type": "Residence",
+    "price": 16500000,
+    "priceLabel": "$16,500,000",
+    "currency": "USD",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "interiorArea": "520 sq m (5,600 sq ft)",
+    "grounds": "350 sq m Panoramic Sky Terrace",
+    "parking": "3 Private Subterranean Bays",
+    "availability": "Private viewing by appointment",
+    "shortDescription": "An elevated architectural study in light, cantilevered volume and an unhurried vista from city to sea.",
+    "description": "Hovering over Los Angeles, Atlas Penthouse pairs monumental structural cantilevers with delicate travertine surfaces. Every elevation has been oriented to capture changing daylight, keeping the urban sprawl at a poetic distance.",
+    "architecturalStory": "The residence celebrates California mid-century minimalism, scaled and engineered to contemporary technical and security expectations.",
+    "heroImage": "assets/properties/residence-04/hero.jpg",
+    "highlights": [
+      {
+        "label": "View",
+        "detail": "270-degree unbroken panorama from Downtown to the Pacific"
+      },
+      {
+        "label": "Engineering",
+        "detail": "Post-tensioned concrete structure allowing column-free salons"
+      },
+      {
+        "label": "Joinery",
+        "detail": "Custom smoked larch millwork and hand-patinated bronze"
+      },
+      {
+        "label": "Elevator",
+        "detail": "Biometric private elevator with direct security vestibule"
+      }
+    ],
+    "photos": [
+      {
+        "url": "assets/properties/residence-04/view-02.jpg",
+        "label": "Cantilever Façade"
+      },
+      {
+        "url": "assets/properties/residence-04/view-03.jpg",
+        "label": "Private Vestibule"
+      },
+      {
+        "url": "assets/rooms/living-room.jpg",
+        "label": "The Sky Salon"
+      },
+      {
+        "url": "assets/rooms/kitchen.jpg",
+        "label": "The Chef Atelier"
+      },
+      {
+        "url": "assets/rooms/primary-suite.jpg",
+        "label": "Primary Horizon"
+      },
+      {
+        "url": "assets/properties/residence-04/view-04.jpg",
+        "label": "Cantilever Terrace"
+      }
+    ]
+  },
+  {
+    "slug": "cypress-house",
+    "name": "Cypress House",
+    "location": "Montecito · Santa Barbara, CA",
+    "type": "Villa",
+    "price": 15900000,
+    "priceLabel": "$15,900,000",
+    "currency": "USD",
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "interiorArea": "620 sq m (6,670 sq ft)",
+    "grounds": "1.2 Hectares of Ancient Oaks",
+    "parking": "4-Car Motor Court",
+    "availability": "Private viewing by appointment",
+    "shortDescription": "A grounded Montecito estate where century-old oaks meet stone massing and calm architectural proportion.",
+    "description": "Cypress House bridges Santa Barbara craft and contemporary Japanese restraint. Set beneath majestic coastal live oaks, the residence is built with locally quarried sandstone, dark cedar siding and bronze casements.",
+    "architecturalStory": "The house is organized horizontally to respect the canopy of the trees, allowing every room an immediate, tactile connection to soil and sky.",
+    "heroImage": "assets/properties/residence-05/hero.jpg",
+    "highlights": [
+      {
+        "label": "Setting",
+        "detail": "Private Montecito foothills acreage with ocean whispers"
+      },
+      {
+        "label": "Sandstone",
+        "detail": "Local hand-chiseled stone walls up to 60cm in thickness"
+      },
+      {
+        "label": "Equestrian",
+        "detail": "Direct access to protected bridleways and walking paths"
+      },
+      {
+        "label": "Gardens",
+        "detail": "Drought-tolerant native meadow and heritage citrus orchard"
+      }
+    ],
+    "photos": [
+      {
+        "url": "assets/rooms/garden.jpg",
+        "label": "Oak Meadow Approach"
+      },
+      {
+        "url": "assets/rooms/guest-suite.png",
+        "label": "Garden Entry Court"
+      },
+      {
+        "url": "assets/rooms/living-room.jpg",
+        "label": "Timber Salon"
+      },
+      {
+        "url": "assets/rooms/dining-room.jpg",
+        "label": "The Orchard Kitchen"
+      },
+      {
+        "url": "assets/rooms/primary-suite.jpg",
+        "label": "Primary Pavilion"
+      },
+      {
+        "url": "assets/rooms/pool-terrace.jpg",
+        "label": "Meadow Terrace"
+      }
+    ]
+  },
+  {
+    "slug": "ridge-house",
+    "name": "Ridge House",
+    "location": "Red Mountain · Aspen, CO",
+    "type": "Residence",
+    "price": 24500000,
+    "priceLabel": "$24,500,000",
+    "currency": "USD",
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "interiorArea": "810 sq m (8,720 sq ft)",
+    "grounds": "1.5 Hectares Mountain Parcel",
+    "parking": "4 Heated Garage Bays",
+    "availability": "Private viewing by appointment",
+    "shortDescription": "A high-altitude alpine residence crafted from dark board-formed concrete, blackened steel and triple-pane glass.",
+    "description": "Perched on the coveted Red Mountain ridge in Aspen, Ridge House redefines mountain architecture. Instead of generic log cabins, it offers sharp architectural geometry tuned for snow loads, thermal efficiency and breathtaking views of Aspen Mountain.",
+    "architecturalStory": "The house is anchored into granite bedrock. As you move from entry to living spaces, the floor plates step down the slope, revealing dramatic vertical peaks.",
+    "heroImage": "assets/properties/residence-06/hero.jpg",
+    "highlights": [
+      {
+        "label": "Altitude",
+        "detail": "Red Mountain vantage with uninterrupted Aspen Mountain view"
+      },
+      {
+        "label": "Efficiency",
+        "detail": "Geothermal heating, triple glazing and automated snow melt"
+      },
+      {
+        "label": "Ski Access",
+        "detail": "Private heated ski room and direct winter shuttle coordination"
+      },
+      {
+        "label": "Entertaining",
+        "detail": "1,500-bottle wine cellar, screening room and indoor spa"
+      }
+    ],
+    "photos": [
+      {
+        "url": "assets/properties/residence-06/hero.jpg",
+        "label": "Alpine Profile"
+      },
+      {
+        "url": "assets/rooms/garden.jpg",
+        "label": "Heated Vestibule"
+      },
+      {
+        "url": "assets/rooms/living-room.jpg",
+        "label": "Panoramic Great Hall"
+      },
+      {
+        "url": "assets/rooms/kitchen.jpg",
+        "label": "Alpine Dining & Hearth"
+      },
+      {
+        "url": "assets/rooms/primary-suite.jpg",
+        "label": "Master Chalet Wing"
+      },
+      {
+        "url": "assets/rooms/pool-terrace.jpg",
+        "label": "Snow Terrace & Spa"
+      }
+    ]
+  },
+  {
+    "slug": "harbor-residence",
+    "name": "Harbor Residence",
+    "location": "Newport, RI",
+    "type": "Residence",
+    "price": 13400000,
+    "priceLabel": "$13,400,000",
+    "currency": "USD",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "interiorArea": "590 sq m (6,350 sq ft)",
+    "grounds": "4,000 sq m Waterfront Parcel",
+    "parking": "3-Car Carriage House",
+    "availability": "Private viewing by appointment",
+    "shortDescription": "A coastal waterfront residence marrying maritime craft with contemporary light-filled proportion.",
+    "description": "Positioned on the rocky shoreline of Narragansett Bay, Harbor Residence honors maritime heritage with cedar shingles, bleached oak and bronze details, while using massive structural openings to celebrate maritime light.",
+    "architecturalStory": "The rooms follow the curve of the shoreline, so every morning begins with the movement of water and sailboats gliding across the bay.",
+    "heroImage": "assets/properties/residence-07/hero.jpg",
+    "highlights": [
+      {
+        "label": "Waterfront",
+        "detail": "Direct deep-water private dockage and stone rip-rap coastline"
+      },
+      {
+        "label": "Maritime",
+        "detail": "Bleached white oak flooring, hand-patinated nautical bronze"
+      },
+      {
+        "label": "Gardens",
+        "detail": "Coastal dune grass landscaping designed for sea spray resilience"
+      },
+      {
+        "label": "Privacy",
+        "detail": "Cul-de-sac privacy behind historic stone perimeter walling"
+      }
+    ],
+    "photos": [
+      {
+        "url": "assets/properties/residence-07/hero.jpg",
+        "label": "Coastal Façade"
+      },
+      {
+        "url": "assets/rooms/garden.jpg",
+        "label": "Maritime Foyer"
+      },
+      {
+        "url": "assets/rooms/living-room.jpg",
+        "label": "Waterfront Salon"
+      },
+      {
+        "url": "assets/rooms/dining-room.jpg",
+        "label": "Galley & Long Table"
+      },
+      {
+        "url": "assets/rooms/primary-suite.jpg",
+        "label": "Captain’s Suite"
+      },
+      {
+        "url": "assets/rooms/pool-terrace.jpg",
+        "label": "Private Dock & Lawn"
+      }
+    ]
+  },
+  {
+    "slug": "solace-house",
+    "name": "Solace House",
+    "location": "Lake Austin · Austin, TX",
+    "type": "Villa",
+    "price": 11800000,
+    "priceLabel": "$11,800,000",
+    "currency": "USD",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "interiorArea": "480 sq m (5,160 sq ft)",
+    "grounds": "3,200 sq m Hill Country Parcel",
+    "parking": "3-Car Covered Portico",
+    "availability": "Private viewing by appointment",
+    "shortDescription": "A Hill Country haven where limestone, rammed earth and shaded waterscapes buffer the Texas sun.",
+    "description": "Set along the quiet waters of Lake Austin, Solace House celebrates regional materials. Thick rammed-earth walls and Texas limestone provide high thermal mass, creating a cool, cathedral-like respite inside.",
+    "architecturalStory": "The house is organised around a central breezeway that captures lake air currents, connecting living pavilions to an elevated water terrace.",
+    "heroImage": "assets/properties/residence-08/hero.jpg",
+    "highlights": [
+      {
+        "label": "Thermal",
+        "detail": "Thick rammed-earth construction with passive summer cooling"
+      },
+      {
+        "label": "Water",
+        "detail": "Private boat slip with automated hydraulic lift on Lake Austin"
+      },
+      {
+        "label": "Native",
+        "detail": "Restored Hill Country flora, live oaks and bluebonnet terraces"
+      },
+      {
+        "label": "Acoustics",
+        "detail": "Architectural water cascades dampening all regional sound"
+      }
+    ],
+    "photos": [
+      {
+        "url": "assets/properties/residence-08/hero.jpg",
+        "label": "Limestone Façade"
+      },
+      {
+        "url": "assets/rooms/guest-suite.png",
+        "label": "Cooling Breezeway"
+      },
+      {
+        "url": "assets/rooms/living-room.jpg",
+        "label": "Cathedral Living"
+      },
+      {
+        "url": "assets/rooms/kitchen.jpg",
+        "label": "Culinary Hearth"
+      },
+      {
+        "url": "assets/rooms/primary-suite.jpg",
+        "label": "Lake View Suite"
+      },
+      {
+        "url": "assets/rooms/pool-terrace.jpg",
+        "label": "Cantilever Boat Dock"
+      }
+    ]
+  },
+  {
+    "slug": "juniper-estate",
+    "name": "Juniper Estate",
+    "location": "Paradise Valley · Scottsdale, AZ",
+    "type": "Estate",
+    "price": 17800000,
+    "priceLabel": "$17,800,000",
+    "currency": "USD",
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "interiorArea": "920 sq m (9,900 sq ft)",
+    "grounds": "2.5 Hectares Desert Sanctuary",
+    "parking": "6-Car Subterranean Vault",
+    "availability": "Private viewing by appointment",
+    "shortDescription": "A desert estate where rammed earth and reflection pools create an oasis against Camelback Mountain.",
+    "description": "Juniper Estate takes inspiration from timeless desert architecture. Thick insulated walls, sheltered peristyles and sunken garden courtyards shield the interior from harsh heat while framing dramatic rock formations.",
+    "architecturalStory": "Water acts as an architectural material throughout the estate, cooling the air and mirroring the dramatic Sonoran Desert sunsets.",
+    "heroImage": "assets/properties/residence-09/hero.jpg",
+    "highlights": [
+      {
+        "label": "Setting",
+        "detail": "Commanding views of Camelback Mountain and the Sonoran valley"
+      },
+      {
+        "label": "Thermal",
+        "detail": "Massive insulated earth walls with integrated hydronic radiant cooling"
+      },
+      {
+        "label": "Oasis",
+        "detail": "Sunken courtyard microclimates with mature date palms and citrus"
+      },
+      {
+        "label": "Collector",
+        "detail": "Climate-controlled 6-vehicle display vault and private security gate"
+      }
+    ],
+    "photos": [
+      {
+        "url": "assets/properties/residence-09/hero.jpg",
+        "label": "Desert Silhouette"
+      },
+      {
+        "url": "assets/rooms/garden.jpg",
+        "label": "Peristyle Entry"
+      },
+      {
+        "url": "assets/rooms/living-room.jpg",
+        "label": "Desert Sanctuary"
+      },
+      {
+        "url": "assets/rooms/dining-room.jpg",
+        "label": "The Courtyard Dining"
+      },
+      {
+        "url": "assets/rooms/primary-suite.jpg",
+        "label": "The Oasis Pavilion"
+      },
+      {
+        "url": "assets/rooms/pool-terrace.jpg",
+        "label": "Infinity Basin"
+      }
+    ]
+  },
+  {
+    "slug": "canyon-residence",
+    "name": "Canyon Residence",
+    "location": "Serra Retreat · Malibu, CA",
+    "type": "Residence",
+    "price": 15200000,
+    "priceLabel": "$15,200,000",
+    "currency": "USD",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "interiorArea": "540 sq m (5,810 sq ft)",
+    "grounds": "1.6 Hectares Canyon Parcel",
+    "parking": "4-Car Gated Portico",
+    "availability": "Private viewing by appointment",
+    "shortDescription": "A secluded Malibu canyon retreat where timber, concrete and ocean air form an unhurried sanctuary.",
+    "description": "Hidden within the private gated Serra Retreat in Malibu, Canyon Residence is enveloped by eucalyptus and sycamore trees. Architectural concrete, warm cedar and expansive steel-framed glass evoke a secluded treehouse of grand scale.",
+    "architecturalStory": "The house hovers lightly above the canyon floor on sculptural concrete pilings, preserving native root systems and catching canyon breezes.",
+    "heroImage": "assets/properties/residence-10/hero.jpg",
+    "highlights": [
+      {
+        "label": "Security",
+        "detail": "Double-gated Serra Retreat privacy with 24-hour guard patrol"
+      },
+      {
+        "label": "Nature",
+        "detail": "Private canyon acreage with seasonal stream and eucalyptus grove"
+      },
+      {
+        "label": "Surfing",
+        "detail": "Golf-cart ride to private Malibu Colony beach and Surfrider point"
+      },
+      {
+        "label": "Wellness",
+        "detail": "Outdoor cold plunge, cedar sauna and dedicated yoga pavilion"
+      }
+    ],
+    "photos": [
+      {
+        "url": "assets/properties/residence-10/hero.jpg",
+        "label": "Canyon Canopy"
+      },
+      {
+        "url": "assets/rooms/garden.jpg",
+        "label": "Suspended Bridge"
+      },
+      {
+        "url": "assets/rooms/living-room.jpg",
+        "label": "The Treehouse Salon"
+      },
+      {
+        "url": "assets/rooms/kitchen.jpg",
+        "label": "Cedar Kitchen"
+      },
+      {
+        "url": "assets/rooms/primary-suite.jpg",
+        "label": "Canopy Suite"
+      },
+      {
+        "url": "assets/rooms/pool-terrace.jpg",
+        "label": "Canyon Pool & Deck"
+      }
+    ]
+  }
+]
